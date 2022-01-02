@@ -5,24 +5,17 @@ autopep8
 
 
 
-dbus-python
 defer
 distro
 distro-info
 django-on-heroku
-duplicity
+
 fasteners
 gunicorn
 html5lib
 idna
 
-pycups
-pygobject
-pyjwt
-pymacaroons
-pynacl
-pyrfc3339
-python-apt
+
 python-debian
 python-decouple
 pyxdg
