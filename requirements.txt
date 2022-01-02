@@ -1,16 +1,10 @@
 
 auto-py-to-exe
 autopep8
-bcrypt
-blinker
-brlapi
-certifi
-chardet
-click
-colorama
-command-not-found
-cryptography
-cupshelpers
+
+
+
+
 dbus-python
 defer
 distro
@@ -22,19 +16,6 @@ gunicorn
 html5lib
 idna
 
-language-selector
-launchpadlib
-lockfile
-louis
-macaroonbakery
-mako
-monotonic
-more-itertools
-netifaces
-olefile
-openpyxl
-paramiko
-pip-chill
 pycups
 pygobject
 pyjwt
@@ -53,12 +34,3 @@ simplejson
 
 
 systemd-python
-
-ubuntu-advantage-tools
-ubuntu-drivers-common
-ufw
-unattended-upgrades
-urllib3
-usb-creator
-
-xkit
